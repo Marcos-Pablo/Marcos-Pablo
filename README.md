@@ -4,7 +4,7 @@ I'm Marcos, a dedicated software developer and technology enthusiast. Currently,
 
 # 🚀 Expertise
 
-Passionate about crafting interactive and intuitive user experiences, I specialize in back-end web development, combining modern frameworks with best practice design patterns.
+Passionate about programming logics, I specialize in back-end web development, combining modern frameworks with best practice design patterns.
 
 Outside of the professional environment, I nurture a great passion: Workout. This activity not only enhances my energy levels but also contributes significantly to improving my discipline, positively impacting both my physical and mental well-being.
 
