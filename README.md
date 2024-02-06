@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Marcos, a dedicated software developer and technology enthusiast. Currently, I work as a Software Developer at Tiendanube. With over 5 year of experience in the field, I have had the privilege to contribute to diverse and stimulating projects while delving into a wide array of technologies.
+I'm Marcos, a dedicated software developer and technology enthusiast. Currently, I work as a Software Developer at Tiendanube. With over 5 year of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 # 🚀 Expertise
 
